@@ -4,4 +4,3 @@ Ferramentas utilizadas:
 
 * HTML
 * CSS
-* JavaScript
